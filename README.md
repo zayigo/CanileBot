@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">TribunaliBot</h1>
+  <h1 align="center">CanileBot</h1>
 
   <p align="center">
     Bot Telegram per le adozioni del canile di Trento
