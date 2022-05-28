@@ -1,0 +1,29 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+flake8 = "*"
+bandit = "*"
+isort = "*"
+rope = "*"
+jedi = "*"
+autopep8 = "*"
+yapf = "*"
+ipykernel = "*"
+pylint = "*"
+jupyter = "*"
+vulture = "*"
+python-dotenv = "*"
+
+[packages]
+requests = "*"
+pytelegrambotapi = "*"
+beautifulsoup4 = "*"
+pause = "*"
+lxml = "*"
+tinydb = "*"
+
+[requires]
+python_version = "3"

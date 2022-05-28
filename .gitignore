@@ -1,0 +1,12 @@
+*.json
+images/
+media/
+config.py
+# cache
+__pycache__
+.pytest_cache
+.handler-saves
+.mypy_cache
+_image_overlays
+# ide settings
+.vscode
